@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\FirstStartCSharpDotNet\FirstStartCSharpDotNet\bin\Debug\FirstStartCSharpDotNet.exe.config
+C:\Users\Admin\source\repos\FirstStartCSharpDotNet\FirstStartCSharpDotNet\bin\Debug\FirstStartCSharpDotNet.exe
+C:\Users\Admin\source\repos\FirstStartCSharpDotNet\FirstStartCSharpDotNet\bin\Debug\FirstStartCSharpDotNet.pdb
+C:\Users\Admin\source\repos\FirstStartCSharpDotNet\FirstStartCSharpDotNet\obj\Debug\FirstStartCSharpDotNet.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\FirstStartCSharpDotNet\FirstStartCSharpDotNet\obj\Debug\FirstStartCSharpDotNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\FirstStartCSharpDotNet\FirstStartCSharpDotNet\obj\Debug\FirstStartCSharpDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstStartCSharpDotNet\FirstStartCSharpDotNet\obj\Debug\FirstStartCSharpDotNet.exe
+C:\Users\Admin\source\repos\FirstStartCSharpDotNet\FirstStartCSharpDotNet\obj\Debug\FirstStartCSharpDotNet.pdb
